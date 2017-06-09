@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="noNotes">No notes are Added. Add a New by clicking button in bottom right.</string>
+</resources>
